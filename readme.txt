@@ -5,3 +5,4 @@ Git has an mutable index called stage.
 Git tracks changes of file.
 This is my first local repository.
 Creating a new branch is quick.
+Creating a feature1 branch.
